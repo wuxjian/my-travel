@@ -6,6 +6,8 @@ import fastclick from 'fastclick'
 //reset.css
 import './assets/reset.css'
 import './assets/border.css'
+//icon-font
+import './assets/iconfont.css'
 
 Vue.config.productionTip = false
 //使用fastclick
